@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Purchases</string>
+    <string name="monday" translatable="false">Monday</string>
+    <string name="purchase">Purchase:</string>
+    <string name="price">Price:</string>
+    <string name="choose_a_date">Choose a date:</string>
+    <string name="ok">OK</string>
+    <string name="date">Date:</string>
+    <string name="error">Error</string>
+    <string name="edit">Edit</string>
+    <string name="save">SAVE</string>
+    <string name="chanel">BACK</string>
+    <string name="product">Product:</string>
+    <string name="errorEmptuField">Empty field</string>
+    <string name="errorNotDouble">"Insert the number"</string>
+    <string name="delete">DELETE</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="list_is_empty">list is empty</string>
+    <string name="statistics">STATISTICS</string>
+    <string name="report">Raport</string>
+    <string name="wsiego_potraczeno">All:</string>
+    <string name="srednie_w_den">Average:</string>
+    <string name="najwencej_w_dni">Max:</string>
+    <string name="najmniej_w_dniu">Min:</string>
+    <string name="editdate" translatable="false">✎</string>
+    <string name="start_date">Start date:</string>
+    <string name="end_date">End date:</string>
+    <string name="result">RESULT</string>
+    <string name="error_delete">ERROR</string>
+    <string name="delete_purchase">Delete purchase</string>
+    <string name="money">$</string>
+    <string name="edit_zakup">Edit purchase</string>
+
+</resources>

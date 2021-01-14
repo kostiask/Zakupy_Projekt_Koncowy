@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zakupy</string>
+    <string name="purchase">Zakup</string>
+    <string name="price">Cena</string>
+    <string name="choose_a_date">Wybierz date:</string>
+    <string name="ok">OK</string>
+    <string name="date">Data:</string>
+    <string name="error">Błąd</string>
+    <string name="edit">Edytować</string>
+    <string name="save">Zapisać</string>
+    <string name="chanel">COFNI</string>
+    <string name="product">Produkt:</string>
+    <string name="errorEmptuField">Puste pole</string>
+    <string name="errorNotDouble">Wprowadz liczbe</string>
+    <string name="delete">USUNĄĆ</string>
+    <string name="list_is_empty">Lista jest pusta</string>
+    <string name="statistics">STATYSTYKA</string>
+    <string name="report">Raport</string>
+    <string name="wsiego_potraczeno">Wszystkie wydatki:</string>
+    <string name="srednie_w_den">Sredinia za dzień:</string>
+    <string name="najwencej_w_dni">Największy zakup:</string>
+    <string name="najmniej_w_dniu">Najmniejszy zakup::</string>
+    <string name="start_date">Data początku:</string>
+    <string name="end_date">Data końcowa:</string>
+    <string name="result">REZULTAT</string>
+    <string name="error_delete">BŁĄD</string>
+    <string name="delete_purchase">Zakup usunięty</string>
+    <string name="money">zł</string>
+    <string name="edit_zakup">Zakup edytowany</string>
+</resources>
